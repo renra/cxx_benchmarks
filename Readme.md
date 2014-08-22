@@ -1,3 +1,3 @@
 # C++ Benchmarks
 
-Some benchamrking code
+Some benchmarking code
